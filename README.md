@@ -17,4 +17,4 @@ Ujian Akhir
 Submission: tugas akhir membuat halaman website menggunakan teknik semantic HTML dan layouting
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah 41 jam.
 
-https://dicodingacademy.blob.core.windows.net/academies/20200630231649b6cb97fdd41db516112699c1ff08c888.png
+[![Logo perusahaan](https://dicodingacademy.blob.core.windows.net/academies/20200630231649b6cb97fdd41db516112699c1ff08c888.png)](
